@@ -1,0 +1,29 @@
+body{
+    background-color: blue;
+}
+
+.details{
+    margin-top: 5em;
+    text-align: center;
+}
+
+.heading{
+    margin-top: 5em;
+    text-align: center;
+}
+
+#toshow{
+    text-decoration: solid;
+    font-size: 2em;
+    text-align: center;
+    background-color:black;
+    height: 4em;
+    width: auto;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+    color: white;
+    border-radius: 20px;
+    display:none;
+}
+
